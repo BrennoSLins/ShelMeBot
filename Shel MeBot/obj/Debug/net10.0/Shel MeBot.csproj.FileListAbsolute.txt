@@ -1,0 +1,26 @@
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Shel MeBot.exe
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Shel MeBot.deps.json
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Shel MeBot.runtimeconfig.json
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Shel MeBot.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Shel MeBot.pdb
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.AssemblyInfoInputs.cache
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.AssemblyInfo.cs
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.csproj.CoreCompileInputs.cache
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\refint\Shel MeBot.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.pdb
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.genruntimeconfig.cache
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\ref\Shel MeBot.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Discord.Net.Commands.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Discord.Net.Core.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Discord.Net.Dave.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Discord.Net.Interactions.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Discord.Net.Rest.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Discord.Net.Webhook.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Discord.Net.WebSocket.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.csproj.AssemblyReference.cache
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.csproj.Up2Date
+D:\Work\Projects\Shel MeBot\Shel MeBot\obj\Debug\net10.0\Shel MeBot.sourcelink.json

@@ -1,0 +1,151 @@
+[
+  {
+    "Name": "Akira",
+    "HP": 13,
+    "MaxHP": 13,
+    "MP": 13,
+    "MaxMP": 13,
+    "Mind": 6,
+    "MaxMind": 7,
+    "Info": [
+      "-1 Mind"
+    ],
+    "MessageID": 1531443099304329317,
+    "ChannelID": 1477077549551980666,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/AkiraHD.png"
+  },
+  {
+    "Name": "Zagreus",
+    "HP": 12,
+    "MaxHP": 12,
+    "MP": 12,
+    "MaxMP": 12,
+    "Mind": 8,
+    "MaxMind": 8,
+    "Info": [],
+    "MessageID": 1531449995532701760,
+    "ChannelID": 1449431903911411874,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/ZagreusHD.png"
+  },
+  {
+    "Name": "Lenix",
+    "HP": 13,
+    "MaxHP": 13,
+    "MP": 15,
+    "MaxMP": 15,
+    "Mind": 6,
+    "MaxMind": 6,
+    "Info": [],
+    "MessageID": 1531449987806793870,
+    "ChannelID": 1449270738845696071,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/Lenix.png"
+  },
+  {
+    "Name": "Rapheal",
+    "HP": 12,
+    "MaxHP": 14,
+    "MP": 13,
+    "MaxMP": 14,
+    "Mind": -99999999,
+    "MaxMind": 7,
+    "Info": [
+      "-3 mind"
+    ],
+    "MessageID": 1531446155647516864,
+    "ChannelID": 1449270738346442829,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/Rapheal.png"
+  },
+  {
+    "Name": "Jinter",
+    "HP": 11,
+    "MaxHP": 11,
+    "MP": 15,
+    "MaxMP": 15,
+    "Mind": 7,
+    "MaxMind": 7,
+    "Info": [],
+    "MessageID": 1531447375413907608,
+    "ChannelID": 1449270738459820215,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/Jinter.png"
+  },
+  {
+    "Name": "Kkame",
+    "HP": 7,
+    "MaxHP": 12,
+    "MP": 8,
+    "MaxMP": 14,
+    "Mind": -3,
+    "MaxMind": 6,
+    "Info": [],
+    "MessageID": 1531447711134515325,
+    "ChannelID": 1449270738623139943,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/Kkame.png"
+  },
+  {
+    "Name": "Diego",
+    "HP": 11,
+    "MaxHP": 11,
+    "MP": 14,
+    "MaxMP": 14,
+    "Mind": 7,
+    "MaxMind": 7,
+    "Info": [],
+    "MessageID": 1531448091566280806,
+    "ChannelID": 1449270738623139950,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/Diego.png"
+  },
+  {
+    "Name": "Xavier",
+    "HP": 14,
+    "MaxHP": 14,
+    "MP": 11,
+    "MaxMP": 11,
+    "Mind": 5,
+    "MaxMind": 6,
+    "Info": [
+      "-1 mind"
+    ],
+    "MessageID": 1531448234470543471,
+    "ChannelID": 1449270738736648340,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/Xavier.png"
+  },
+  {
+    "Name": "Kyoryu",
+    "HP": 13,
+    "MaxHP": 13,
+    "MP": 11,
+    "MaxMP": 11,
+    "Mind": 8,
+    "MaxMind": 8,
+    "Info": [],
+    "MessageID": 1531448999079313643,
+    "ChannelID": 1449431940888264827,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/LKyoryu.png"
+  },
+  {
+    "Name": "ABA",
+    "HP": 12,
+    "MaxHP": 12,
+    "MP": 13,
+    "MaxMP": 13,
+    "Mind": 7,
+    "MaxMind": 7,
+    "Info": [],
+    "MessageID": 1531449245318643794,
+    "ChannelID": 1449450000462512289,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/ABA.webp"
+  },
+  {
+    "Name": "Cahara",
+    "HP": 12,
+    "MaxHP": 12,
+    "MP": 15,
+    "MaxMP": 15,
+    "Mind": 6,
+    "MaxMind": 6,
+    "Info": [],
+    "MessageID": 1531449603562668135,
+    "ChannelID": 1449431922597171300,
+    "CharPic": "https://raw.githubusercontent.com/BrennoSLins/ShelMeBot/refs/heads/master/Cahara.png"
+  }
+]
